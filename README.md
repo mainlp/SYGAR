@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="LICENSE"> <img alt="License" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"> </a>
+    <a href="https://arxiv.org/abs/2504.01445"> <img alt="ArXiv" src="https://img.shields.io/badge/arXiv-2504.01445-b31b1b.svg"> </a>
 </p>
 
 <div style="text-align: center; width: 100%;">
