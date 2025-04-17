@@ -21,8 +21,6 @@ Systematic generalization refers to the capacity to understand and generate nove
 
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
-  - [Abstract](#abstract)
-  - [Installation](#installation)
   - [Setup](#setup)
   - [Generate Data](#generate-data)
   - [Split Data](#split-data)
